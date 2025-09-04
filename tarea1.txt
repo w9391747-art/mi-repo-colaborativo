@@ -1,1 +1,2 @@
-Resolver conflicto de tarea en archivo1.txt
+Este archivo fue creado como tarea de sincronización y linea añadida en local
+
